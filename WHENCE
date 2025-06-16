@@ -3859,58 +3859,35 @@ Link: ath11k/WCN6855/hw2.1/board-2.bin -> ../hw2.0/board-2.bin
 Link: ath11k/WCN6855/hw2.1/amss.bin -> ../hw2.0/amss.bin
 Link: ath11k/WCN6855/hw2.1/m3.bin -> ../hw2.0/m3.bin
 File: ath11k/QCN9074/hw1.0/board-2.bin
-File: ath11k/QCN9074/hw1.0/.notice
 File: ath11k/QCN9074/hw1.0/amss.bin
 File: ath11k/QCN9074/hw1.0/m3.bin
 Version: WLAN.HK.2.9.0.1-02175-QCAHKSWPL_SILICONZ-2
 File: ath11k/QCN9074/hw1.0/Notice.txt
 File: ath11k/WCN6750/hw1.0/board-2.bin
-File: ath11k/WCN6750/hw1.0/sc7280/wpss.mbn
-Link: ath11k/WCN6750/hw1.0/wpss.mdt -> sc7280/wpss.mbn
 Version: WLAN.MSL.1.0.1-01160-QCAMSLSWPLZ-1
 File: ath11k/WCN6750/hw1.0/Notice.txt
-File: ath11k/IPQ5018/hw1.0/board-2.bin
-File: ath11k/IPQ5018/hw1.0/m3_fw.b00
-File: ath11k/IPQ5018/hw1.0/m3_fw.b01
-File: ath11k/IPQ5018/hw1.0/m3_fw.b02
-File: ath11k/IPQ5018/hw1.0/m3_fw.flist
-File: ath11k/IPQ5018/hw1.0/m3_fw.mdt
-File: ath11k/IPQ5018/hw1.0/q6_fw.b00
-File: ath11k/IPQ5018/hw1.0/q6_fw.b01
-File: ath11k/IPQ5018/hw1.0/q6_fw.b02
-File: ath11k/IPQ5018/hw1.0/q6_fw.b03
-File: ath11k/IPQ5018/hw1.0/q6_fw.b04
-File: ath11k/IPQ5018/hw1.0/q6_fw.b05
-File: ath11k/IPQ5018/hw1.0/q6_fw.b07
-File: ath11k/IPQ5018/hw1.0/q6_fw.b08
-File: ath11k/IPQ5018/hw1.0/q6_fw.b09
-File: ath11k/IPQ5018/hw1.0/q6_fw.b10
-File: ath11k/IPQ5018/hw1.0/q6_fw.b11
-File: ath11k/IPQ5018/hw1.0/q6_fw.b13
-File: ath11k/IPQ5018/hw1.0/q6_fw.b14
-File: ath11k/IPQ5018/hw1.0/q6_fw.flist
-File: ath11k/IPQ5018/hw1.0/q6_fw.mdt
 Version: WLAN.HK.2.6.0.1-01291-QCAHKSWPL_SILICONZ-1
-File: ath11k/IPQ5018/hw1.0/Notice.txt
-File: ath11k/QCA2066/hw2.1/board-2.bin
-File: ath11k/QCA2066/hw2.1/amss.bin
-File: ath11k/QCA2066/hw2.1/m3.bin
 Version: WLAN.HSP.1.1-03926.13-QCAHSPSWPL_V2_SILICONZ_CE-2.52297.6
-File: ath11k/QCA2066/hw2.1/Notice.txt
-File: ath11k/QCA6698AQ/hw2.1/board-2.bin
-File: ath11k/QCA6698AQ/hw2.1/amss.bin
-File: ath11k/QCA6698AQ/hw2.1/m3.bin
 Version: WLAN.HSP.1.1-04604-QCAHSPSWPL_V1_V2_SILICONZ_IOE-1
-File: ath11k/QCA6698AQ/hw2.1/Notice.txt
+File: ath11k/QCA206X/hw2.1/Data.msc
+File: ath11k/QCA206X/hw2.1/amss.bin
+File: ath11k/QCA206X/hw2.1/board-2.bin
+File: ath11k/QCA206X/hw2.1/board.bin
+File: ath11k/QCA206X/hw2.1/boardg.bin
+File: ath11k/QCA206X/hw2.1/m3.bin
+File: ath11k/QCA206X/hw2.1/regdb.bin
+File: ath11k/WCN6750/hw1.0/wpss.b00
+File: ath11k/WCN6750/hw1.0/wpss.b01
+File: ath11k/WCN6750/hw1.0/wpss.b02
+File: ath11k/WCN6750/hw1.0/wpss.b03
+File: ath11k/WCN6750/hw1.0/wpss.b04
+File: ath11k/WCN6750/hw1.0/wpss.b05
+File: ath11k/WCN6750/hw1.0/wpss.b06
+File: ath11k/WCN6750/hw1.0/wpss.b07
+File: ath11k/WCN6750/hw1.0/wpss.b08
+File: ath11k/WCN6750/hw1.0/wpss.mdt
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
-
-File: ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
-Version: WLAN.MSL.2.0.c2-00204-QCAMSLSWPLZ-1
-Link: qcom/qcm6490/wpss.mbn -> ../../ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
-Link: qcom/qcs6490/wpss.mbn -> ../../ath11k/WCN6750/hw1.0/qcm6490/wpss.mbn
-
-Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
 --------------------------------------------------------------------------
 
