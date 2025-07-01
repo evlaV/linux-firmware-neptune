@@ -14,6 +14,8 @@ check-commits:
     - if: $CI_MERGE_REQUEST_ID
   script:
     - ci-fairy check-commits --signed-off-by --textwidth=0
+  tags:
+    - x86_64-linux-kvm-docker
 
 pre-commit:
   stage: test
@@ -24,6 +26,8 @@ pre-commit:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
   script:
     - pre-commit run --all-files
+  tags:
+    - x86_64-linux-kvm-docker
 
 deb-release:
   stage: deploy
