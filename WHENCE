@@ -4233,7 +4233,7 @@ File: rtl_bt/rtl8821c_config.bin
 File: rtl_bt/rtl8821cs_fw.bin
 Link: rtl_bt/rtl8821cs_config.bin -> rtl8761b_config.bin
 File: rtl_bt/rtl8822cu_fw.bin
-Link: rtl_bt/rtl8822cu_config.bin -> rtl8761bu_config.bin
+File: rtl_bt/rtl8822cu_config.bin
 File: rtl_bt/rtl8822cs_fw.bin
 File: rtl_bt/rtl8822cs_config.bin
 File: rtl_bt/rtl8852au_fw.bin
@@ -4257,6 +4257,8 @@ Found in vendor driver, linux_bt_usb_2.11.20140423_8723be.rar
 From https://github.com/troy-tan/driver_store
 Files rtl_bt/rtl8822b_* came directly from Realtek. These files are
 updated on April 14, 2017.
+Files rtl_bt/rtl8822cu_* came directly from Realtek. These files are
+updated on July 1, 2025.
 
 --------------------------------------------------------------------------
 
