@@ -4280,8 +4280,10 @@ Found in vendor driver, linux_bt_usb_2.11.20140423_8723be.rar
 From https://github.com/troy-tan/driver_store
 Files rtl_bt/rtl8822b_* came directly from Realtek. These files are
 updated on April 14, 2017.
-Files rtl_bt/rtl8822cu_* came directly from Realtek. These files are
+File rtl_bt/rtl8822cu_config came directly from Realtek. This file was
 updated on July 1, 2025.
+File rtl_bt/rtl8822cu_fw came from upstream. This file was
+updated on Sept 2, 2025.
 
 --------------------------------------------------------------------------
 
