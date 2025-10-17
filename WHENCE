@@ -5810,6 +5810,7 @@ Firmware images needed for GSP-RM:
 File: nvidia/tu102/gsp/bootloader-535.113.01.bin
 File: nvidia/tu102/gsp/booter_load-535.113.01.bin
 File: nvidia/tu102/gsp/booter_unload-535.113.01.bin
+File: nvidia/tu102/gsp/gen_bootloader-570.144.bin
 File: nvidia/tu102/gsp/bootloader-570.144.bin
 File: nvidia/tu102/gsp/booter_load-570.144.bin
 File: nvidia/tu102/gsp/booter_unload-570.144.bin
@@ -5819,6 +5820,7 @@ Link: nvidia/tu106/gsp -> ../tu102/gsp
 File: nvidia/tu116/gsp/booter_load-535.113.01.bin
 File: nvidia/tu116/gsp/booter_unload-535.113.01.bin
 Link: nvidia/tu116/gsp/bootloader-535.113.01.bin -> ../../tu102/gsp/bootloader-535.113.01.bin
+Link: nvidia/tu116/gsp/gen_bootloader-570.144.bin -> ../../tu102/gsp/gen_bootloader-570.144.bin
 File: nvidia/tu116/gsp/booter_load-570.144.bin
 File: nvidia/tu116/gsp/booter_unload-570.144.bin
 Link: nvidia/tu116/gsp/bootloader-570.144.bin -> ../../tu102/gsp/bootloader-570.144.bin
@@ -5827,6 +5829,7 @@ Link: nvidia/tu117/gsp -> ../tu116/gsp
 File: nvidia/ga100/gsp/bootloader-535.113.01.bin
 File: nvidia/ga100/gsp/booter_load-535.113.01.bin
 File: nvidia/ga100/gsp/booter_unload-535.113.01.bin
+Link: nvidia/ga100/gsp/gen_bootloader-570.144.bin -> ../../tu102/gsp/gen_bootloader-570.144.bin
 File: nvidia/ga100/gsp/bootloader-570.144.bin
 File: nvidia/ga100/gsp/booter_load-570.144.bin
 File: nvidia/ga100/gsp/booter_unload-570.144.bin
