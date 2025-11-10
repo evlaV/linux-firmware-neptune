@@ -4282,8 +4282,8 @@ Files rtl_bt/rtl8822b_* came directly from Realtek. These files are
 updated on April 14, 2017.
 File rtl_bt/rtl8822cu_config came directly from Realtek. This file was
 updated on July 1, 2025.
-File rtl_bt/rtl8822cu_fw came from upstream. This file was
-updated on Sept 2, 2025.
+File rtl_bt/rtl8822cu_fw came directly from Realtek. This file was
+updated on November 2, 2025.
 
 --------------------------------------------------------------------------
 
