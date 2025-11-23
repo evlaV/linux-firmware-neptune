@@ -1228,6 +1228,9 @@ Version: 83.fb5c9aeb.0
 File: iwlwifi-ma-b0-hr-b0-89.ucode
 Version: 86.1a492d28.0
 
+File: iwlwifi-sc-a0-wh-b0-101.ucode
+Version: 98.80584591.0
+
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
 Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
