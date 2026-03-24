@@ -5379,6 +5379,9 @@ Version: GuC API/APB ver 70.65.0 for Pantherlake
 File: xe/ptl_huc.bin
 Version: HuC API/APB ver 10.3.3 for Pantherlake
 
+File: xe/ptl_gsc_1.bin
+Version: GSC API/APB v1.0, release 105.0.2.1397, SVN 1 for Pantherlake
+
 License: Redistributable. See LICENSE.xe for details
 --------------------------------------------------------------------------
 
