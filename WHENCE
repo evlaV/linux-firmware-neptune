@@ -1183,6 +1183,18 @@ Version: 91.62990553.0
 File: iwlwifi-bz-b0-fm-c0-96.ucode
 Version: 93.44729d4e.0
 
+File: iwlwifi-bz-b0-fm-c0-97.ucode
+Version: 94.8049d69b.0
+
+File: iwlwifi-bz-b0-fm-c0-98.ucode
+Version: 95.d661c37c.0
+
+File: iwlwifi-bz-b0-fm-c0-100.ucode
+Version: 97.3f3ef548.0
+
+File: iwlwifi-bz-b0-fm-c0-101.ucode
+Version: 98.6ef20b19.0
+
 File: iwlwifi-bz-b0-fm-c0.pnvm
 
 File: iwlwifi-ma-b0-gf-a0-83.ucode
@@ -4225,12 +4237,16 @@ File: intel/ibt-0180-1050.ddc
 Version: BT_Magnetar_REL103604_23.50.24483.103604
 
 File: intel/ibt-0190-0291.sfi
-File: intel/ibt-0190-0291-iml.sfi
 File: intel/ibt-0190-0291.ddc
 File: intel/ibt-0190-0041.sfi
 File: intel/ibt-0190-0041-iml.sfi
 File: intel/ibt-0190-0041.ddc
 Version: BT_BlazarI_S_REL82746_23.120.25071.82746
+
+File: intel/ibt-0190-0291-iml.sfi
+File: intel/ibt-0190-0291-usb.sfi
+File: intel/ibt-0190-0291-usb.ddc
+Version: BT_BlazarI_S_REL117603_24.40.26135.117603
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
@@ -5346,16 +5362,25 @@ File: xe/lnl_gsc_1.bin
 Version: GSC API/APB v1.0, release 104.0.0.1263, SVN 1 for Lunarlake
 
 File: xe/lnl_guc_70.bin
-Version: GuC API/APB ver 70.40.2 for Lunarlake
+Version: GuC API/APB ver 70.65.0 for Lunarlake
 
 File: xe/lnl_huc.bin
 Version: HuC API/APB ver 9.4.13 for Lunarlake
 
 File: xe/bmg_guc_70.bin
-Version: GuC API/APB ver 70.40.2 for Battlemage
+Version: GuC API/APB ver 70.65.0 for Battlemage
 
 File: xe/bmg_huc.bin
 Version: HuC API/APB ver 8.2.10 for Battlemage
+
+File: xe/ptl_guc_70.bin
+Version: GuC API/APB ver 70.65.0 for Pantherlake
+
+File: xe/ptl_huc.bin
+Version: HuC API/APB ver 10.3.3 for Pantherlake
+
+File: xe/ptl_gsc_1.bin
+Version: GSC API/APB v1.0, release 105.0.2.1397, SVN 1 for Pantherlake
 
 License: Redistributable. See LICENSE.xe for details
 --------------------------------------------------------------------------
@@ -8345,6 +8370,8 @@ License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 Driver: ish - Intel Integrated Sensor Hub
 File: intel/ish/ish_lnlm.bin
 Version: 5.8.0.7716
+File: intel/ish/ish_ptl.bin
+Version: 5.8.1.7778
 
 License: Redistributable. See LICENCE.ish for details
 
@@ -8366,6 +8393,10 @@ Link: intel/vpu/vpu_37xx_v0.0.bin -> vpu_37xx_v1.bin
 File: intel/vpu/vpu_40xx_v1.bin
 Version: ci_tag_ud202504_vpu_rc_20250115_1905
 Link: intel/vpu/vpu_40xx_v0.0.bin -> vpu_40xx_v1.bin
+
+File: intel/vpu/vpu_50xx_v1.bin
+Version: Mar  5 2026*NPU50xx*ci_tag_ud202612_vpu_rc_20260304_1901-2-gdbda783919b*dbda783919b77553afe5576a59881bca37fb6d7b
+Link: intel/vpu/vpu_50xx_v0.0.bin -> vpu_50xx_v1.bin
 
 License: Redistributable. See LICENSE.intel_vpu for details
 
