@@ -1228,6 +1228,9 @@ Version: 83.fb5c9aeb.0
 File: iwlwifi-ma-b0-hr-b0-89.ucode
 Version: 86.1a492d28.0
 
+File: iwlwifi-sc-a0-wh-b0-101.ucode
+Version: 98.80584591.0
+
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
 Also available from http://wireless.kernel.org/en/users/Drivers/iwlwifi#Firmware
@@ -4253,6 +4256,11 @@ File: intel/ibt-0190-0291-iml.sfi
 File: intel/ibt-0190-0291-usb.sfi
 File: intel/ibt-0190-0291-usb.ddc
 Version: BT_BlazarI_S_REL117603_24.40.26135.117603
+
+File: intel/ibt-00a0-01a1-iml.sfi
+File: intel/ibt-00a0-01a1-pci.ddc
+File: intel/ibt-00a0-01a1-pci.sfi
+Version: BT_Scorpius_S_REL68935_24.10.25461.68935
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
