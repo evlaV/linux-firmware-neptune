@@ -1175,6 +1175,9 @@ Version: 97.3f3ef548.0
 File: iwlwifi-gl-c0-fm-c0-101.ucode
 Version: 98.6ef20b19.0
 
+File: iwlwifi-gl-c0-fm-c0-c106.ucode
+Version: 106.c88d33af.0
+
 File: iwlwifi-gl-c0-fm-c0.pnvm
 
 File: iwlwifi-bz-b0-fm-c0-92.ucode
@@ -1200,6 +1203,9 @@ Version: 97.3f3ef548.0
 
 File: iwlwifi-bz-b0-fm-c0-101.ucode
 Version: 98.6ef20b19.0
+
+File: iwlwifi-bz-b0-fm-c0-c106.ucode
+Version: 106.c88d33af.0
 
 File: iwlwifi-bz-b0-fm-c0.pnvm
 
@@ -1236,6 +1242,9 @@ Version: 86.1a492d28.0
 
 File: iwlwifi-sc-a0-wh-b0-101.ucode
 Version: 98.80584591.0
+
+File: iwlwifi-sc-a0-wh-b0-c106.ucode
+Version: 106.c88d33af.0
 
 Licence: Redistributable. See LICENCE.iwlwifi_firmware for details
 
